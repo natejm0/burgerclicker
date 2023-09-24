@@ -1,0 +1,2 @@
+// compile command
+gcc sdltesting.c -ISDL2 -L.\lib -lSDL2main -lSDL2 -o .\output\sdl.exe
